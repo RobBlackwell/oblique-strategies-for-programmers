@@ -81,7 +81,7 @@ If you have four groups working on a compiler, you'll get a four-pass compiler.
 
 Resist the temptation to fix it by hand. Make sure the fix is permanent.
 
-Cand you use brute force for now and find a fancy algorithm later?
+Can you use brute force for now and find a fancy algorithm later?
 
 Is it broken by design?
 
@@ -307,7 +307,9 @@ If you are the only person fixing a problem, then people will just have to wait 
 
 What can you do to contain a problem so that things can't get any worse?
 
-Keep calm and breathe. Every problem has a perfectly reasonable explanation.
+Keep calm and breathe. 
+
+Every problem has a perfectly reasonable explanation.
 
 Can you use a tool to watch what's happening? A debugger, protocol analyzer or trace listener for example.
 
@@ -322,3 +324,14 @@ Can you build a simulator to help reproduce the problem conditions?
 Imagine you had unlimitted time, budget, memory and compute power. What would you do?
 
 Don't trust a bug report until you've seen the problem with your own eyes.
+
+## Bonus feature for working with Microsoft technologies
+
+Have you rebooted the server?
+
+Have you tried IISRESET?
+
+Have you remembered to run Visual Studio with elevated privileges?
+
+
+
